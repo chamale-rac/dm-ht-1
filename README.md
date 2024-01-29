@@ -1,2 +1,3 @@
-# dm-ht-1
+# exploratory-analysis
+
 Hoja de Trabajo 1, Minería de Datos
